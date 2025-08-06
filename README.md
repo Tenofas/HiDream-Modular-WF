@@ -1,2 +1,2 @@
 # HiDream-Modular-WF
-HiDream Modular WF for ComfyUI - Coming soon
+HiDream Modular WF for ComfyUI
